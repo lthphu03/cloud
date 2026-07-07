@@ -2,7 +2,6 @@ baseURL = "https://ltphu03.github.io/cloud/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
