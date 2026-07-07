@@ -145,14 +145,14 @@ One useful point was that the topics were closely related to the learning path o
 
 ## Some Images from the Event
 
-![Event image 1](/images/4-EventParticipated/event2-01.jpg)
+![Event image 1](/cloud/images/4-EventParticipated/event2-01.jpg)
 
-![Event image 2](/images/4-EventParticipated/event2-02.jpg)
+![Event image 2](/cloud/images/4-EventParticipated/event2-02.jpg)
 
-![Event image 3](/images/4-EventParticipated/event2-03.jpg)
+![Event image 3](/cloud/images/4-EventParticipated/event2-03.jpg)
 
-![Event image 4](/images/4-EventParticipated/event2-04.jpg)
+![Event image 4](/cloud/images/4-EventParticipated/event2-04.jpg)
 
-![Event image 5](/images/4-EventParticipated/event2-05.jpg)
+![Event image 5](/cloud/images/4-EventParticipated/event2-05.jpg)
 
 

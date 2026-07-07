@@ -135,8 +135,8 @@ One useful point was that the topics were closely related to real enterprise imp
 
 ## Some Images from the Event
 
-![Event image 1](/images/4-EventParticipated/event3-01.jpg)
+![Event image 1](/cloud/images/4-EventParticipated/event3-01.jpg)
 
-![Event image 2](/images/4-EventParticipated/event3-02.jpg)
+![Event image 2](/cloud/images/4-EventParticipated/event3-02.jpg)
 
 

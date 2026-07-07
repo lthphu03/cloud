@@ -134,9 +134,9 @@ Sự kiện mang lại góc nhìn thực tế về cách AI đang được tích
 ## Một số hình ảnh khi tham gia sự kiện
 
 
-![Hình ảnh sự kiện 1](/images/4-EventParticipated/event3-01.jpg)
+![Hình ảnh sự kiện 1](/cloud/images/4-EventParticipated/event3-01.jpg)
 
-![Hình ảnh sự kiện 2](/images/4-EventParticipated/event3-02.jpg)
+![Hình ảnh sự kiện 2](/cloud/images/4-EventParticipated/event3-02.jpg)
 
 
 

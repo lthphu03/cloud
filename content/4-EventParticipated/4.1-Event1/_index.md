@@ -141,15 +141,15 @@ The session about context in AI helped me understand that using AI effectively r
 
 ## Some Images from the Event## Some Images from the Event
 
-![Event image 1](/images/4-EventParticipated/event1-01.jpg)
+![Event image 1](/cloud/images/4-EventParticipated/event1-01.jpg)
 
-![Event image 2](/images/4-EventParticipated/event1-02.jpg)
+![Event image 2](/cloud/images/4-EventParticipated/event1-02.jpg)
 
-![Event image 3](/images/4-EventParticipated/event1-03.jpg)
+![Event image 3](/cloud/images/4-EventParticipated/event1-03.jpg)
 
-![Event image 4](/images/4-EventParticipated/event1-04.jpg)
+![Event image 4](/cloud/images/4-EventParticipated/event1-04.jpg)
 
-![Event image 5](/images/4-EventParticipated/event1-05.jpg)
+![Event image 5](/cloud/images/4-EventParticipated/event1-05.jpg)
 
-![Event image 6](/images/4-EventParticipated/event1-06.jpg)
+![Event image 6](/cloud/images/4-EventParticipated/event1-06.jpg)
 

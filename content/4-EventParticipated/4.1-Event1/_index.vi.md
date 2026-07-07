@@ -142,15 +142,15 @@ Nội dung về context trong AI giúp tôi hiểu rằng để sử dụng AI h
 
 ## Một số hình ảnh khi tham gia sự kiện
 
-![Hình ảnh sự kiện 1](/images/4-EventParticipated/event1-01.jpg)
+![Hình ảnh sự kiện 1](/cloud/images/4-EventParticipated/event1-01.jpg)
 
-![Hình ảnh sự kiện 2](/images/4-EventParticipated/event1-02.jpg)
+![Hình ảnh sự kiện 2](/cloud/images/4-EventParticipated/event1-02.jpg)
 
-![Hình ảnh sự kiện 3](/images/4-EventParticipated/event1-03.jpg)
+![Hình ảnh sự kiện 3](/cloud/images/4-EventParticipated/event1-03.jpg)
 
-![Hình ảnh sự kiện 4](/images/4-EventParticipated/event1-04.jpg)
+![Hình ảnh sự kiện 4](/cloud/images/4-EventParticipated/event1-04.jpg)
 
-![Hình ảnh sự kiện 5](/images/4-EventParticipated/event1-05.jpg)
+![Hình ảnh sự kiện 5](/cloud/images/4-EventParticipated/event1-05.jpg)
 
-![Hình ảnh sự kiện 6](/images/4-EventParticipated/event1-06.jpg)
+![Hình ảnh sự kiện 6](/cloud/images/4-EventParticipated/event1-06.jpg)
 

@@ -36,4 +36,4 @@ Through exploring this solution, I gained a better understanding that before dep
 AWS Architecture Documentation:
 https://docs.aws.amazon.com/solutions/latest/distributed-load-testing-on-aws/architecture-overview.html
 
-![Picture](/images/3-BlogsPosted/Blog1.jpg)
+![Picture](/cloud/images/3-BlogsPosted/Blog1.jpg)

@@ -145,12 +145,12 @@ Sự kiện ngày 06/06 mang lại nhiều nội dung đa dạng, không chỉ t
 
 ## Một số hình ảnh khi tham gia sự kiện
 
-![Hình ảnh sự kiện 1](/images/4-EventParticipated/event2-01.jpg)
+![Hình ảnh sự kiện 1](/cloud/images/4-EventParticipated/event2-01.jpg)
 
-![Hình ảnh sự kiện 2](/images/4-EventParticipated/event2-02.jpg)
+![Hình ảnh sự kiện 2](/cloud/images/4-EventParticipated/event2-02.jpg)
 
-![Hình ảnh sự kiện 3](/images/4-EventParticipated/event2-03.jpg)
+![Hình ảnh sự kiện 3](/cloud/images/4-EventParticipated/event2-03.jpg)
 
-![Hình ảnh sự kiện 4](/images/4-EventParticipated/event2-04.jpg)
+![Hình ảnh sự kiện 4](/cloud/images/4-EventParticipated/event2-04.jpg)
 
-![Hình ảnh sự kiện 5](/images/4-EventParticipated/event2-05.jpg)
+![Hình ảnh sự kiện 5](/cloud/images/4-EventParticipated/event2-05.jpg)
