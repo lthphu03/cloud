@@ -9,7 +9,7 @@ pre: " <b> 6. </b> "
 
 
 
-During my internship at **First Cloud AI Journey - AWS Study Group** from **April 20, 2026** to **July 12, 2026**, I had the opportunity to learn, practice, and apply the knowledge I gained at university to a practical learning and working environment.
+During my internship at **First Cloud AI Journey - AWS Study Group** from **April 17, 2026** to **July 30, 2026**, I had the opportunity to learn, practice, and apply the knowledge I gained at university to a practical learning and working environment.
 
 I participated in **the AWS Cloud learning and practice program, built a Worklog website using Hugo, updated weekly reports, joined community events, and summarized internship-related content**. Through these activities, I improved my skills in **self-learning, AWS Cloud research, Hugo/Markdown usage, report writing, content analysis, communication, and presenting learning results**.
 

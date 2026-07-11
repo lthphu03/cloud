@@ -9,7 +9,7 @@ pre: " <b> 6. </b> "
 
 
 
-Trong suốt thời gian thực tập tại **First Cloud AI Journey - AWS Study Group** từ **20/04/2026** đến **12/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường học tập và làm việc thực tế.
+Trong suốt thời gian thực tập tại **First Cloud AI Journey - AWS Study Group** từ **17/04/2026** đến **30/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường học tập và làm việc thực tế.
 
 Tôi đã tham gia **chương trình học tập và thực hành AWS Cloud, xây dựng website Worklog bằng Hugo, cập nhật báo cáo hằng tuần, tham gia các sự kiện cộng đồng và tổng hợp nội dung thực tập**, qua đó cải thiện kỹ năng **tự học, tìm hiểu AWS Cloud, sử dụng Hugo/Markdown, viết báo cáo, phân tích nội dung, giao tiếp và trình bày kết quả học tập**.
 

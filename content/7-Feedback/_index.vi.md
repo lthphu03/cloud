@@ -5,40 +5,58 @@ weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
+Trong suốt quá trình tham gia chương trình **First Cloud AI Journey**, em đã có cơ hội học hỏi nhiều kiến thức mới về AWS Cloud, Generative AI cũng như cách làm việc trong một môi trường học tập và thực hành chuyên nghiệp. Đây là một trải nghiệm rất ý nghĩa, giúp em phát triển cả về kiến thức chuyên môn lẫn kỹ năng mềm.
 
-### Đánh giá chung
+## Đánh giá chung
 
-**1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCAJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+### 1. Môi trường học tập
 
-**2. Sự hỗ trợ của mentor / team admin**  
-Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
+Môi trường học tập của FCAJ rất chuyên nghiệp, thân thiện và luôn khuyến khích mọi người chủ động tìm hiểu kiến thức. Các buổi học được tổ chức bài bản, tài liệu được chuẩn bị đầy đủ và cộng đồng luôn sẵn sàng hỗ trợ khi gặp khó khăn. Điều này giúp em cảm thấy thoải mái và có thêm động lực để hoàn thành chương trình.
 
-**3. Sự phù hợp giữa công việc và chuyên ngành học**  
-Công việc mình được giao phù hợp với kiến thức mình đã học ở trường, đồng thời mở rộng thêm những mảng mới mà mình chưa từng được tiếp cận. Nhờ vậy, mình vừa củng cố kiến thức nền tảng, vừa học thêm kỹ năng thực tế.
+### 2. Sự hỗ trợ từ Mentor và Ban tổ chức
 
-**4. Cơ hội học hỏi & phát triển kỹ năng**  
-Trong quá trình thực tập, mình học được nhiều kỹ năng mới như sử dụng công cụ quản lý dự án, kỹ năng làm việc nhóm, và cả cách giao tiếp chuyên nghiệp trong môi trường công ty. Mentor cũng chia sẻ nhiều kinh nghiệm thực tế giúp mình định hướng tốt hơn cho sự nghiệp.
+Các mentor và team admin luôn nhiệt tình giải đáp các thắc mắc trong quá trình học tập. Khi gặp lỗi trong quá trình triển khai workshop hoặc xây dựng Worklog, em đều nhận được sự hướng dẫn nhanh chóng và chi tiết. Bên cạnh đó, các thông báo và tài liệu luôn được cập nhật đầy đủ giúp việc theo dõi chương trình trở nên thuận tiện.
 
-**5. Văn hóa & tinh thần đồng đội**  
-Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
+### 3. Nội dung chương trình
 
-**6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về thời gian linh hoạt khi cần thiết. Ngoài ra, việc được tham gia các buổi đào tạo nội bộ là một điểm cộng lớn.
+Nội dung của First Cloud AI Journey được xây dựng theo từng tuần với lộ trình rõ ràng, từ những kiến thức cơ bản đến các chủ đề nâng cao như Amazon Bedrock, Serverless, Monitoring, DevOps và Generative AI. Điều này giúp em dễ dàng tiếp cận kiến thức ngay cả khi chưa có nhiều kinh nghiệm về AWS.
 
+### 4. Kiến thức và kỹ năng đạt được
 
-### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+Thông qua chương trình, em đã hiểu rõ hơn về các dịch vụ AWS, biết cách triển khai các workshop thực hành và xây dựng website Worklog bằng Hugo. Ngoài ra, em còn cải thiện kỹ năng tìm kiếm tài liệu, đọc tài liệu tiếng Anh, viết báo cáo bằng Markdown và trình bày nội dung một cách khoa học.
 
+### 5. Hoạt động cộng đồng
 
-### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+Việc được tham gia các sự kiện Community Day là một trải nghiệm rất đáng nhớ. Em có cơ hội lắng nghe các chuyên gia chia sẻ về AI, Cloud Computing, DevOps và các xu hướng công nghệ mới. Đây cũng là dịp để mở rộng góc nhìn, giao lưu với các bạn cùng đam mê công nghệ và học hỏi thêm nhiều kinh nghiệm thực tế.
+
+### 6. Đánh giá tổng thể
+
+Nhìn chung, First Cloud AI Journey là một chương trình chất lượng với nội dung thiết thực và nhiều hoạt động bổ ích. Sau khi hoàn thành chương trình, em cảm thấy tự tin hơn khi sử dụng AWS cũng như có thêm nền tảng để tiếp tục học tập và phát triển trong lĩnh vực Cloud Computing.
+
+---
+
+## Một số chia sẻ
+
+### Điều em hài lòng nhất
+
+Điều em ấn tượng nhất là lộ trình học rõ ràng, kết hợp giữa lý thuyết và thực hành. Ngoài ra, việc tham gia các sự kiện Community Day giúp em hiểu thêm về những công nghệ đang được doanh nghiệp áp dụng trong thực tế.
+
+### Điều em mong muốn chương trình cải thiện
+
+Em mong chương trình có thêm nhiều workshop thực hành chuyên sâu hoặc các mini project để học viên có thêm cơ hội áp dụng kiến thức đã học. Bên cạnh đó, có thể tổ chức thêm nhiều hoạt động giao lưu giữa các nhóm để tăng sự kết nối trong cộng đồng.
+
+### Có giới thiệu chương trình cho người khác không?
+
+Có. Em sẵn sàng giới thiệu First Cloud AI Journey cho các bạn đang quan tâm đến AWS và Cloud Computing vì đây là chương trình có nội dung chất lượng, lộ trình học rõ ràng, cộng đồng hỗ trợ tích cực và mang lại nhiều kiến thức thực tế.
+
+---
+
+## Đề xuất và mong muốn
+
+- Tiếp tục cập nhật thêm các chủ đề mới về AI, Cloud và các dịch vụ AWS hiện đại.
+- Tổ chức thêm các buổi chia sẻ kinh nghiệm từ các kỹ sư đang làm việc trong doanh nghiệp.
+- Có thêm nhiều workshop hoặc mini project để học viên được thực hành nhiều hơn.
+- Mở rộng thêm các hoạt động networking giữa mentor và học viên.
+
+Em hy vọng sẽ có cơ hội tiếp tục tham gia những chương trình tiếp theo của AWS Study Group để nâng cao kiến thức chuyên môn, cập nhật các công nghệ mới và phát triển bản thân trong lĩnh vực Cloud Computing và AI.
