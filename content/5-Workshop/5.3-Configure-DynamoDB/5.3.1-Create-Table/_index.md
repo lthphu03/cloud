@@ -60,6 +60,6 @@ The tables created automatically include:
 
 After the application starts successfully, access **AWS Console → DynamoDB → Tables** to check the tables that have been created.
 
-![DynamoDB Tables](/aws/images/5-Workshop/5.1-Workshop-overview/dynamodb-tables.png)
+![DynamoDB Tables](/cloud/images/5-Workshop/5.1-Workshop-overview/dynamodb-tables.png)
 
 If the tables show **Active** status, the DynamoDB table initialization process is complete.

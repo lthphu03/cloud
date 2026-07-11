@@ -12,6 +12,6 @@ After completing the Amazon SES configuration and connecting the backend, create
 
 If configured correctly, the recipient will receive a notification email sent from the **Dental Clinic Management System**.
 
-![Email Notification](/aws/images/5-Workshop/5.1-Workshop-overview/nhangmail.png)
+![Email Notification](/cloud/images/5-Workshop/5.1-Workshop-overview/nhangmail.png)
 
 At this point, the system's email sending functionality has been successfully configured and is working.

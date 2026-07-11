@@ -26,7 +26,7 @@ Trong workshop này, chúng ta sẽ triển khai toàn bộ hệ thống **Denta
 
 Thông qua workshop này, người đọc sẽ được hướng dẫn từng bước triển khai hệ thống từ chuẩn bị môi trường AWS, triển khai Frontend và Backend, cấu hình cơ sở dữ liệu, thiết lập các dịch vụ bảo mật, giám sát hoạt động của hệ thống, cho đến kiểm thử và dọn dẹp tài nguyên sau khi hoàn thành.
 
-![AWS Architecture](/aws/images/5-Workshop/5.1-Workshop-overview/drawio.png)
+![AWS Architecture](/cloud/images/5-Workshop/5.1-Workshop-overview/drawio.png)
 
 ### Luồng hoạt động của hệ thống
 

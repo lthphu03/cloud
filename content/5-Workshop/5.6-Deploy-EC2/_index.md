@@ -27,7 +27,7 @@ Configure the EC2 as follows:
 
 After completing the configuration, press **Launch Instance** to create the EC2 server.
 
-![Create EC2](/aws/images/5-Workshop/5.1-Workshop-overview/EC2p3.png)
+![Create EC2](/cloud/images/5-Workshop/5.1-Workshop-overview/EC2p3.png)
 
 ---
 

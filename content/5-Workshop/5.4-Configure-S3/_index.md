@@ -21,7 +21,7 @@ Set up the basic information:
 
 After completing the configuration, select **Create bucket**.
 
-![Amazon S3 Bucket](/aws/images/5-Workshop/5.1-Workshop-overview/S3.png)
+![Amazon S3 Bucket](/cloud/images/5-Workshop/5.1-Workshop-overview/S3.png)
 
 After successful creation, the `dental-service-images-huy` Bucket will appear in the Buckets list and be ready for use.
 
